@@ -3,7 +3,7 @@
 ### 해당 깃헙 레포의 issue에 본인의 답변을 추가해주세요!
 
 1. React Lifecycle에 대해 간단히 설명해주세요
-# React Lifecycle
+## React Lifecycle
 
 - 한국어로 생명주기 메서드
 - 컴포넌트가 브라우저상에 나타나고, 업데이트되고, 사라질 때 호출되는 메서드들이다
@@ -57,6 +57,7 @@
 ### References
 
 [https://react.vlpt.us/basic/25-lifecycle.html](https://react.vlpt.us/basic/25-lifecycle.html)
+
 2. React18에서 업데이트 된 기능에 대해 설명해주세요
 3. React18에서 추가된 hook들에 대해 설명해주세요
 4. 요즘 관심있는 주제가 있다면 알려주세요
